@@ -16,7 +16,7 @@
 <ol>
   <li>
     公序良俗に反するコンテンツの送信<br>
-このサービスを使用する際に、公序良俗に反するコンテンツを送信しないことが義務付けられています。われわれは、不適切なコンテンツを受信した場合、適切な措置を取る権利を留保します。
+このサービスを使用する際に、公序良俗に反するコンテンツを送信しないことが義務付けられています。私は、不適切なコンテンツを受信した場合、適切な措置を取る権利を留保します。
   </li>
   <li>
     サービスの運用への妨害行為<br>
@@ -46,7 +46,7 @@ When using 音声ちゃん/AudioToVideo-Discord-bot, you are required to agree t
 <ol>
   <li>
     Sending Inappropriate Content<br>
-    It is mandatory not to send content that violates public morals when using this service. We reserve the right to take appropriate measures if inappropriate content is received.
+    It is mandatory not to send content that violates public morals when using this service. I reserve the right to take appropriate measures if inappropriate content is received.
   </li>
   <li>
     Prohibition of Disruptive Acts to the Service<br>
@@ -56,7 +56,7 @@ When using 音声ちゃん/AudioToVideo-Discord-bot, you are required to agree t
 
 # Privacy Policy
 <a id="pp"></a>
-We will explain important matters about privacy protection. I respect the privacy of users and adhere to the following privacy policy:
+I will explain important matters about privacy protection. I respect the privacy of users and adhere to the following privacy policy:
 <ol>
   <li>
     Collection of User Data<br>
