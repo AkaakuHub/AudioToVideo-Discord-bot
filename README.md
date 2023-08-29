@@ -64,7 +64,7 @@ I will explain important matters about privacy protection. I respect the privacy
   </li>
   <li>
     Data Storage<br>
-    User data is deleted completely, as described in the code, beyond the most recent 30 entries (since three files are generated in a single process). Information will not be retained beyond the data storage period.
+    User data will be deleted completely, as described in the code, beyond the most recent 30 entries (since three files are generated in a single process). Information will not be retained beyond the data storage period.
   </li>
 </ol>
 If you have any questions or concerns about privacy, please feel free to contact us. I prioritize user privacy and will make every effort to earn the trust of all users.
