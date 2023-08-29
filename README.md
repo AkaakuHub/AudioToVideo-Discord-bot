@@ -40,6 +40,7 @@
 プライバシーに関するご質問や懸念事項がある場合は、お気軽にお問い合わせください。私はユーザーのプライバシーを最も重要視しており、ご利用いただく皆様の信頼に応えるために努力いたします。
 ご理解とご協力を賜りますようお願い申し上げます。
 
+
 # Terms of Service
 <a id="tos"></a>
 When using 音声ちゃん/AudioToVideo-Discord-bot, you are required to agree to the following terms of service:
