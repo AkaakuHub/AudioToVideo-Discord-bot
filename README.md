@@ -41,7 +41,6 @@
 ご理解とご協力を賜りますようお願い申し上げます。
 
 # Terms of Service
-
 <a id="tos"></a>
 When using 音声ちゃん/AudioToVideo-Discord-bot, you are required to agree to the following terms of service:
 <ol>
