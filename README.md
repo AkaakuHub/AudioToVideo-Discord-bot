@@ -2,6 +2,10 @@
 
 スマホで音声ファイルのプレビューができないため、Discordに送信された音声ファイルを動画ファイルに変換するbotです。<br>This is a bot that converts audio files sent to Discord into video files because you can't preview audio files on your smartphone.
 
+# 導入方法/How to invite
+
+https://top.gg/bot/1145948147642810398
+
 ## 目次
 1. [利用規約](#利用規約)
 2. [プライバシーポリシー](#プライバシーポリシー)
