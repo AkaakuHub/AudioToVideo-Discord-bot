@@ -41,7 +41,7 @@ async def on_message(message):
           file_name = attachment.filename
           msg_content = message.content
           msg_time = message.created_at.strftime("%Y%m%d%H%M%S%f")
-          unq_name = os.urandom(4).hex() + msg_time
+          unq_name = msg_time + os.urandom(4).hex()
           await attachment.save(unq_name + "_audio" + ext)
           await create_image(message, file_name, msg_content, unq_name, ext)
           await delete_old(message)
