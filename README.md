@@ -37,8 +37,8 @@ https://top.gg/bot/1145948147642810398
 私はいかなるユーザーデータも収集しません。音声ちゃん/AudioToVideo-Discord-botの利用に関連して提供されたデータは、動画に変換する目的でのみ使用されます。
   </li>
   <li>
-    データの保存<br>
-ユーザーデータは、コードに書かれているように、直近30件(一度の処理で3ファイルが生成されるため)を超えたデータは完全に削除されます。データの保管期間を超えて情報を保持することはありません。
+    データの削除<br>
+ユーザーデータは、コードに書かれているように、動画を送信した時点でデータはすべて削除されます。データの保管期間を超えて情報を保持することはありません。
   </li>
 </ol>
 プライバシーに関するご質問や懸念事項がある場合は、お気軽にお問い合わせください。私はユーザーのプライバシーを最も重要視しており、ご利用いただく皆様の信頼に応えるために努力いたします。
@@ -69,7 +69,7 @@ I will explain important matters about privacy protection. I respect the privacy
   </li>
   <li>
     Data Storage<br>
-    User data will be deleted completely, as described in the code, beyond the most recent 30 entries (since three files are generated in a single process). Information will not be retained beyond the data storage period.
+    As written in the code, all data will be deleted once the video is submitted. We do not retain information beyond the data retention period.
   </li>
 </ol>
 If you have any questions or concerns about privacy, please feel free to contact us. I prioritize user privacy and will make every effort to earn the trust of all users.
