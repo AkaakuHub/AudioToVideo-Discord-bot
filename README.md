@@ -19,8 +19,8 @@ https://top.gg/bot/1145948147642810398
 音声ちゃん/AudioToVideo-Discord-botのご利用に際して、以下の利用規約に同意いただく必要があります。
 <ol>
   <li>
-    公序良俗に反するコンテンツの送信<br>
-このサービスを使用する際に、公序良俗に反するコンテンツを送信しないことが義務付けられています。私は、不適切なコンテンツを受信した場合、適切な措置を取る権利を留保します。
+    公序良俗に反するコンテンツの禁止<br>
+このサービスを使用する際に、公序良俗に反するコンテンツを送信しないでください。
   </li>
   <li>
     サービスの運用への妨害行為<br>
@@ -50,8 +50,8 @@ https://top.gg/bot/1145948147642810398
 When using 音声ちゃん/AudioToVideo-Discord-bot, you are required to agree to the following terms of service:
 <ol>
   <li>
-    Sending Inappropriate Content<br>
-    It is mandatory not to send content that violates public morals when using this service. I reserve the right to take appropriate measures if inappropriate content is received.
+    Prohibition of content that violates public order and morals<br>
+    When using this service, please do not submit content that is contrary to public order and morals.
   </li>
   <li>
     Prohibition of Disruptive Acts to the Service<br>
@@ -74,3 +74,6 @@ I will explain important matters about privacy protection. I respect the privacy
 </ol>
 If you have any questions or concerns about privacy, please feel free to contact us. I prioritize user privacy and will make every effort to earn the trust of all users.
 Thank you for your understanding and cooperation.
+
+最終更新日:2023年9月11日
+Last Update: September 11th, 2023
